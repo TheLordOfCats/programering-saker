@@ -1,0 +1,5 @@
+from cmu_graphics import *
+
+Rect(100,100,300,300,fill="Red")
+
+cmu_graphics.run()
